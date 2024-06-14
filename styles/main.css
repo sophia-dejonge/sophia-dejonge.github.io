@@ -1,11 +1,11 @@
 h1 {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: monospace;
 }
 body {
   background-color: rgb(181, 181, 253);
 }
 h1 {
-  color: pink;
-  font-size: 50px;
+  color: rgb(222, 175, 183);
+  font-size: 80px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
