@@ -6,6 +6,23 @@ h1 {
   padding: auto;
 }
 
+body {
+  font-family: cursive;
+  margin: 0%;
+  padding: 0%;
+  line-height: 1.6;
+}
+
+header {
+  background: #333;
+  color: bisque;
+  padding: 1rem 0;
+  text-align: center;
+}
+main {
+  padding: 20px;
+}
+
 h3 {
   font-style: italic;
   background-color: black;
@@ -17,4 +34,8 @@ footer {
   font-family: fantasy;
   font-size: 40px;
   color: sandybrown;
+  text-align: center;
+  padding: 1rem 0;
+  bottom: 0;
+  width: 100%;
 }
