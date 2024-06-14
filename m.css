@@ -1,8 +1,9 @@
 h1 {
   color: cornflowerblue;
   font-family: monospace;
-  font-size: larger;
+  font-size: 80px;
   background-color: aquamarine;
+  padding: auto;
 }
 
 h3 {
@@ -10,4 +11,10 @@ h3 {
   background-color: black;
   color: darkgoldenrod;
   font-size: larger;
+}
+
+footer {
+  font-family: fantasy;
+  font-size: 40px;
+  color: sandybrown;
 }
