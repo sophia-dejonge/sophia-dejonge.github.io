@@ -6,6 +6,13 @@ h1 {
   padding: auto;
 }
 
+h4 {
+  font-style: italic;
+  background-color: black;
+  color: darkgoldenrod;
+  font-size: larger;
+}
+
 body {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   margin: 0%;
@@ -18,7 +25,7 @@ ul {
   list-style-position: inside;
   justify-content: space-evenly;
   flex-direction: row;
-  list-style: none;
+  list-style: circle;
   padding: 0;
 }
 
@@ -55,5 +62,5 @@ footer {
 }
 
 img {
-  height: 250px;
+  height: 350px;
 }
