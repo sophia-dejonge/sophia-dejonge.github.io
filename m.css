@@ -64,3 +64,23 @@ footer {
 img {
   height: 350px;
 }
+/* widescreen displays */
+@media only screen and (min-width: 920px) {
+  .container {
+    /* some layout rules */
+  }
+}
+
+/* tablets */
+@media only screen and (max-width: 919px) {
+  .container {
+    /* some layout rules */
+  }
+}
+
+/* phones */
+@media only screen and (max-width: 400px) {
+  .container {
+    /* some layout rules */
+  }
+}
