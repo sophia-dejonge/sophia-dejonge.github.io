@@ -29,11 +29,20 @@ ul {
   padding: 0;
 }
 
+ul.a {
+  list-style-type: disc;
+  list-style-position: inside;
+  flex-direction: column;
+  padding: 0;
+}
+
 li {
   display: inline;
   margin-right: 10px;
 }
 
+ol {
+}
 header {
   background: #333;
   color: bisque;
@@ -64,6 +73,7 @@ footer {
 img {
   height: 350px;
 }
+
 /* widescreen displays */
 @media only screen and (min-width: 920px) {
   .container {
